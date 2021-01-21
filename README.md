@@ -3,7 +3,7 @@
 
 Lecturer: Aapo Hyvärinen TA: Hermanni Hälvä
 
-This webpage contains the coursework. See the sub folders for each week's work, with submission information inside.
+This webpage contains the coursework. See the sub-folders for each week's work, with submission information inside.
 
 In order to complete these courseworks, you will need:
   - python 3 (I recommend setting everything up via [miniconda](https://docs.conda.io/en/latest/miniconda.html))
