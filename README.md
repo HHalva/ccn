@@ -18,7 +18,7 @@ In case you have any questions, please open an issue in the tab above, or email 
 
 Useful extra resources (week 1):
   - Goodfellow's [deep learning book](https://www.deeplearningbook.org/)
-  - Michael Nielsen's neural network book [pdf](http://neuralnetworksanddeeplearning.com/)
+  - Michael Nielsen's neural network [book](http://neuralnetworksanddeeplearning.com/)
   - Karpathy's programming oriented guide with some useful coding examples (http://karpathy.github.io/neuralnets/)
   - For all things matrix including derivations, the world famous matrix [cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
   
