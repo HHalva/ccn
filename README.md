@@ -10,7 +10,7 @@ by "git clone https://github.com/HHalva/ccn.git" on your command line.
 In order to complete these courseworks, you will need:
   - Git
   - python 3 (I recommend setting everything up via [miniconda](https://docs.conda.io/en/latest/miniconda.html))
-  - [jupyter notebook](https://jupyter.org/)
+  - [jupyter notebook](https://jupyter.org/) (you need this on your computer to open the assignments)
   - numpy package
   - [pytorch](https://pytorch.org/) package
   
