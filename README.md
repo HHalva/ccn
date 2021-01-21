@@ -14,4 +14,4 @@ In order to complete these courseworks, you will need:
   - numpy package
   - [pytorch](https://pytorch.org/) package
   
-In case you have any questions, please open an issue in the tab above, or email myself or Aapo. Opening an issue is preferable as then every one can benefit from your question.
+In case you have any questions, please open an issue in the tab above, or email myself or Aapo. Opening an issue is preferable as then every one can benefit from your question. Also if you find any mistakes (very likely) please let us know!
