@@ -14,9 +14,9 @@ In order to complete these courseworks, you will need:
   - numpy package
   - [pytorch](https://pytorch.org/) package
   
-In case you have any questions, please open an issue in the tab above, or email myself or Aapo. Opening an issue is preferable as then every one can benefit from your question. Also if you find any mistakes (very likely) please let us know!
+In case you have any questions, please open an issue in the tab above, or email myself or Aapo. Opening an issue is preferable as then everyone can benefit from your question. Also if you find any mistakes (very likely) please let us know!
 
-Useful extra resources (week 1):
+Useful extra resources for your perusal (week 1):
   - Goodfellow's [deep learning book](https://www.deeplearningbook.org/)
   - Michael Nielsen's neural network [book](http://neuralnetworksanddeeplearning.com/)
   - Karpathy's programming oriented guide with some useful coding examples (http://karpathy.github.io/neuralnets/)
