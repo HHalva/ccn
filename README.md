@@ -4,8 +4,11 @@
 Lecturer: Aapo Hyvärinen TA: Hermanni Hälvä
 
 This webpage contains the coursework. See the sub-folders for each week's work, with submission information inside.
+You obviosuly need to complete the questions locally on your computer. In case you haven't used git before, you clone the repo
+by "git clone https://github.com/HHalva/ccn.git" on your command line. 
 
 In order to complete these courseworks, you will need:
+  - Git
   - python 3 (I recommend setting everything up via [miniconda](https://docs.conda.io/en/latest/miniconda.html))
   - [jupyter notebook](https://jupyter.org/)
   - numpy package
