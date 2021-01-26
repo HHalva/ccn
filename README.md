@@ -1,8 +1,8 @@
 # Computational Cognitive Neuroscience
 
-**UPDATE**
+**UPDATE!:**
 The deadline of the first assignment has been moved to Monday 1.2. On this day you will also receive the second assignment which is due the following Monday (8.2). All the remaining assignments will also follow this schedule of the assignments being handed out on Monday and due the following week's Monday. 
-
+________________________________________________________________________________________________________________________________________________________________
 
 5 cr, University of Helsinki, spring 2021
 
