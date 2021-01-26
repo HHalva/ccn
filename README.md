@@ -1,4 +1,9 @@
-# Computational Cognitive Neuroscience 
+# Computational Cognitive Neuroscience
+
+**UPDATE**
+The deadline of the first assignment has been moved to Monday 1.2. On this day you will also receive the second assignment which is due the following Monday (8.2). All the remaining assignments will also follow this schedule of the assignments being handed out on Monday and due the following week's Monday. 
+
+
 5 cr, University of Helsinki, spring 2021
 
 Lecturer: Aapo Hyvärinen TA: Hermanni Hälvä
